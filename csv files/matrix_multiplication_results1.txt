@@ -1,0 +1,480 @@
+
+Standard Sequential Result:
+m = 100, n = 101, p = 102
+Execution Time (Standard Sequential): 0.004000 seconds
+
+Standard Parallel Result:
+m = 100, n = 101, p = 102
+Execution Time (Standard Parallel): 0.002000 seconds
+
+Transposed Sequential Result:
+m = 100, n = 101, p = 102
+Execution Time (Transposed Sequential): 0.004000 seconds
+
+Transposed Parallel Result:
+m = 100, n = 101, p = 102
+Execution Time (Transposed Parallel): 0.001000 seconds
+
+Standard Sequential Result:
+m = 200, n = 201, p = 202
+Execution Time (Standard Sequential): 0.025000 seconds
+
+Standard Parallel Result:
+m = 200, n = 201, p = 202
+Execution Time (Standard Parallel): 0.006000 seconds
+
+Transposed Sequential Result:
+m = 200, n = 201, p = 202
+Execution Time (Transposed Sequential): 0.022000 seconds
+
+Transposed Parallel Result:
+m = 200, n = 201, p = 202
+Execution Time (Transposed Parallel): 0.004000 seconds
+
+Standard Sequential Result:
+m = 300, n = 301, p = 302
+Execution Time (Standard Sequential): 0.095000 seconds
+
+Standard Parallel Result:
+m = 300, n = 301, p = 302
+Execution Time (Standard Parallel): 0.015000 seconds
+
+Transposed Sequential Result:
+m = 300, n = 301, p = 302
+Execution Time (Transposed Sequential): 0.072000 seconds
+
+Transposed Parallel Result:
+m = 300, n = 301, p = 302
+Execution Time (Transposed Parallel): 0.012000 seconds
+
+Standard Sequential Result:
+m = 400, n = 401, p = 402
+Execution Time (Standard Sequential): 0.320000 seconds
+
+Standard Parallel Result:
+m = 400, n = 401, p = 402
+Execution Time (Standard Parallel): 0.078000 seconds
+
+Transposed Sequential Result:
+m = 400, n = 401, p = 402
+Execution Time (Transposed Sequential): 0.211000 seconds
+
+Transposed Parallel Result:
+m = 400, n = 401, p = 402
+Execution Time (Transposed Parallel): 0.043000 seconds
+
+Standard Sequential Result:
+m = 500, n = 501, p = 502
+Execution Time (Standard Sequential): 1.133000 seconds
+
+Standard Parallel Result:
+m = 500, n = 501, p = 502
+Execution Time (Standard Parallel): 0.177000 seconds
+
+Transposed Sequential Result:
+m = 500, n = 501, p = 502
+Execution Time (Transposed Sequential): 0.416000 seconds
+
+Transposed Parallel Result:
+m = 500, n = 501, p = 502
+Execution Time (Transposed Parallel): 0.107000 seconds
+
+Standard Sequential Result:
+m = 600, n = 601, p = 602
+Execution Time (Standard Sequential): 2.137000 seconds
+
+Standard Parallel Result:
+m = 600, n = 601, p = 602
+Execution Time (Standard Parallel): 0.199000 seconds
+
+Transposed Sequential Result:
+m = 600, n = 601, p = 602
+Execution Time (Transposed Sequential): 0.590000 seconds
+
+Transposed Parallel Result:
+m = 600, n = 601, p = 602
+Execution Time (Transposed Parallel): 0.117000 seconds
+
+Standard Sequential Result:
+m = 700, n = 701, p = 702
+Execution Time (Standard Sequential): 2.660000 seconds
+
+Standard Parallel Result:
+m = 700, n = 701, p = 702
+Execution Time (Standard Parallel): 0.345000 seconds
+
+Transposed Sequential Result:
+m = 700, n = 701, p = 702
+Execution Time (Transposed Sequential): 0.988000 seconds
+
+Transposed Parallel Result:
+m = 700, n = 701, p = 702
+Execution Time (Transposed Parallel): 0.216000 seconds
+
+Standard Sequential Result:
+m = 800, n = 801, p = 802
+Execution Time (Standard Sequential): 4.504000 seconds
+
+Standard Parallel Result:
+m = 800, n = 801, p = 802
+Execution Time (Standard Parallel): 0.530000 seconds
+
+Transposed Sequential Result:
+m = 800, n = 801, p = 802
+Execution Time (Transposed Sequential): 1.355000 seconds
+
+Transposed Parallel Result:
+m = 800, n = 801, p = 802
+Execution Time (Transposed Parallel): 0.296000 seconds
+
+Standard Sequential Result:
+m = 900, n = 901, p = 902
+Execution Time (Standard Sequential): 5.768000 seconds
+
+Standard Parallel Result:
+m = 900, n = 901, p = 902
+Execution Time (Standard Parallel): 0.886000 seconds
+
+Transposed Sequential Result:
+m = 900, n = 901, p = 902
+Execution Time (Transposed Sequential): 1.911000 seconds
+
+Transposed Parallel Result:
+m = 900, n = 901, p = 902
+Execution Time (Transposed Parallel): 0.392000 seconds
+
+Standard Sequential Result:
+m = 1000, n = 1001, p = 1002
+Execution Time (Standard Sequential): 7.853000 seconds
+
+Standard Parallel Result:
+m = 1000, n = 1001, p = 1002
+Execution Time (Standard Parallel): 1.319000 seconds
+
+Transposed Sequential Result:
+m = 1000, n = 1001, p = 1002
+Execution Time (Transposed Sequential): 2.824000 seconds
+
+Transposed Parallel Result:
+m = 1000, n = 1001, p = 1002
+Execution Time (Transposed Parallel): 0.594000 seconds
+
+Standard Sequential Result:
+m = 1100, n = 1101, p = 1102
+Execution Time (Standard Sequential): 11.742000 seconds
+
+Standard Parallel Result:
+m = 1100, n = 1101, p = 1102
+Execution Time (Standard Parallel): 2.112000 seconds
+
+Transposed Sequential Result:
+m = 1100, n = 1101, p = 1102
+Execution Time (Transposed Sequential): 3.695000 seconds
+
+Transposed Parallel Result:
+m = 1100, n = 1101, p = 1102
+Execution Time (Transposed Parallel): 0.848000 seconds
+
+Standard Sequential Result:
+m = 1200, n = 1201, p = 1202
+Execution Time (Standard Sequential): 15.256000 seconds
+
+Standard Parallel Result:
+m = 1200, n = 1201, p = 1202
+Execution Time (Standard Parallel): 2.690000 seconds
+
+Transposed Sequential Result:
+m = 1200, n = 1201, p = 1202
+Execution Time (Transposed Sequential): 4.822000 seconds
+
+Transposed Parallel Result:
+m = 1200, n = 1201, p = 1202
+Execution Time (Transposed Parallel): 1.028000 seconds
+
+Standard Sequential Result:
+m = 1300, n = 1301, p = 1302
+Execution Time (Standard Sequential): 18.902000 seconds
+
+Standard Parallel Result:
+m = 1300, n = 1301, p = 1302
+Execution Time (Standard Parallel): 3.643000 seconds
+
+Transposed Sequential Result:
+m = 1300, n = 1301, p = 1302
+Execution Time (Transposed Sequential): 6.020000 seconds
+
+Transposed Parallel Result:
+m = 1300, n = 1301, p = 1302
+Execution Time (Transposed Parallel): 1.370000 seconds
+
+Standard Sequential Result:
+m = 1400, n = 1401, p = 1402
+Execution Time (Standard Sequential): 23.842000 seconds
+
+Standard Parallel Result:
+m = 1400, n = 1401, p = 1402
+Execution Time (Standard Parallel): 4.961000 seconds
+
+Transposed Sequential Result:
+m = 1400, n = 1401, p = 1402
+Execution Time (Transposed Sequential): 8.150000 seconds
+
+Transposed Parallel Result:
+m = 1400, n = 1401, p = 1402
+Execution Time (Transposed Parallel): 1.710000 seconds
+
+Standard Sequential Result:
+m = 1500, n = 1501, p = 1502
+Execution Time (Standard Sequential): 30.494000 seconds
+
+Standard Parallel Result:
+m = 1500, n = 1501, p = 1502
+Execution Time (Standard Parallel): 6.155000 seconds
+
+Transposed Sequential Result:
+m = 1500, n = 1501, p = 1502
+Execution Time (Transposed Sequential): 9.319000 seconds
+
+Transposed Parallel Result:
+m = 1500, n = 1501, p = 1502
+Execution Time (Transposed Parallel): 2.074000 seconds
+
+Standard Sequential Result:
+m = 1600, n = 1601, p = 1602
+Execution Time (Standard Sequential): 39.150000 seconds
+
+Standard Parallel Result:
+m = 1600, n = 1601, p = 1602
+Execution Time (Standard Parallel): 7.396000 seconds
+
+Transposed Sequential Result:
+m = 1600, n = 1601, p = 1602
+Execution Time (Transposed Sequential): 11.276000 seconds
+
+Transposed Parallel Result:
+m = 1600, n = 1601, p = 1602
+Execution Time (Transposed Parallel): 2.671000 seconds
+
+Standard Sequential Result:
+m = 1700, n = 1701, p = 1702
+Execution Time (Standard Sequential): 48.740000 seconds
+
+Standard Parallel Result:
+m = 1700, n = 1701, p = 1702
+Execution Time (Standard Parallel): 9.484000 seconds
+
+Transposed Sequential Result:
+m = 1700, n = 1701, p = 1702
+Execution Time (Transposed Sequential): 13.481000 seconds
+
+Transposed Parallel Result:
+m = 1700, n = 1701, p = 1702
+Execution Time (Transposed Parallel): 2.994000 seconds
+
+Standard Sequential Result:
+m = 1800, n = 1801, p = 1802
+Execution Time (Standard Sequential): 59.814000 seconds
+
+Standard Parallel Result:
+m = 1800, n = 1801, p = 1802
+Execution Time (Standard Parallel): 11.297000 seconds
+
+Transposed Sequential Result:
+m = 1800, n = 1801, p = 1802
+Execution Time (Transposed Sequential): 15.999000 seconds
+
+Transposed Parallel Result:
+m = 1800, n = 1801, p = 1802
+Execution Time (Transposed Parallel): 3.542000 seconds
+
+Standard Sequential Result:
+m = 1900, n = 1901, p = 1902
+Execution Time (Standard Sequential): 71.651000 seconds
+
+Standard Parallel Result:
+m = 1900, n = 1901, p = 1902
+Execution Time (Standard Parallel): 13.549000 seconds
+
+Transposed Sequential Result:
+m = 1900, n = 1901, p = 1902
+Execution Time (Transposed Sequential): 18.218000 seconds
+
+Transposed Parallel Result:
+m = 1900, n = 1901, p = 1902
+Execution Time (Transposed Parallel): 4.278000 seconds
+
+Standard Sequential Result:
+m = 2000, n = 2001, p = 2002
+Execution Time (Standard Sequential): 85.056000 seconds
+
+Standard Parallel Result:
+m = 2000, n = 2001, p = 2002
+Execution Time (Standard Parallel): 16.198000 seconds
+
+Transposed Sequential Result:
+m = 2000, n = 2001, p = 2002
+Execution Time (Transposed Sequential): 25.047000 seconds
+
+Transposed Parallel Result:
+m = 2000, n = 2001, p = 2002
+Execution Time (Transposed Parallel): 5.810000 seconds
+
+Standard Sequential Result:
+m = 2100, n = 2101, p = 2102
+Execution Time (Standard Sequential): 99.622000 seconds
+
+Standard Parallel Result:
+m = 2100, n = 2101, p = 2102
+Execution Time (Standard Parallel): 18.700000 seconds
+
+Transposed Sequential Result:
+m = 2100, n = 2101, p = 2102
+Execution Time (Transposed Sequential): 24.717000 seconds
+
+Transposed Parallel Result:
+m = 2100, n = 2101, p = 2102
+Execution Time (Transposed Parallel): 5.853000 seconds
+
+Standard Sequential Result:
+m = 2200, n = 2201, p = 2202
+Execution Time (Standard Sequential): 113.952000 seconds
+
+Standard Parallel Result:
+m = 2200, n = 2201, p = 2202
+Execution Time (Standard Parallel): 21.576000 seconds
+
+Transposed Sequential Result:
+m = 2200, n = 2201, p = 2202
+Execution Time (Transposed Sequential): 28.689000 seconds
+
+Transposed Parallel Result:
+m = 2200, n = 2201, p = 2202
+Execution Time (Transposed Parallel): 6.513000 seconds
+
+Standard Sequential Result:
+m = 2300, n = 2301, p = 2302
+Execution Time (Standard Sequential): 132.494000 seconds
+
+Standard Parallel Result:
+m = 2300, n = 2301, p = 2302
+Execution Time (Standard Parallel): 25.541000 seconds
+
+Transposed Sequential Result:
+m = 2300, n = 2301, p = 2302
+Execution Time (Transposed Sequential): 32.486000 seconds
+
+Transposed Parallel Result:
+m = 2300, n = 2301, p = 2302
+Execution Time (Transposed Parallel): 7.324000 seconds
+
+Standard Sequential Result:
+m = 2400, n = 2401, p = 2402
+Execution Time (Standard Sequential): 147.245000 seconds
+
+Standard Parallel Result:
+m = 2400, n = 2401, p = 2402
+Execution Time (Standard Parallel): 28.269000 seconds
+
+Transposed Sequential Result:
+m = 2400, n = 2401, p = 2402
+Execution Time (Transposed Sequential): 37.339000 seconds
+
+Transposed Parallel Result:
+m = 2400, n = 2401, p = 2402
+Execution Time (Transposed Parallel): 8.765000 seconds
+
+Standard Sequential Result:
+m = 2500, n = 2501, p = 2502
+Execution Time (Standard Sequential): 170.063000 seconds
+
+Standard Parallel Result:
+m = 2500, n = 2501, p = 2502
+Execution Time (Standard Parallel): 32.940000 seconds
+
+Transposed Sequential Result:
+m = 2500, n = 2501, p = 2502
+Execution Time (Transposed Sequential): 42.329000 seconds
+
+Transposed Parallel Result:
+m = 2500, n = 2501, p = 2502
+Execution Time (Transposed Parallel): 9.588000 seconds
+
+Standard Sequential Result:
+m = 2600, n = 2601, p = 2602
+Execution Time (Standard Sequential): 192.808000 seconds
+
+Standard Parallel Result:
+m = 2600, n = 2601, p = 2602
+Execution Time (Standard Parallel): 37.504000 seconds
+
+Transposed Sequential Result:
+m = 2600, n = 2601, p = 2602
+Execution Time (Transposed Sequential): 48.543000 seconds
+
+Transposed Parallel Result:
+m = 2600, n = 2601, p = 2602
+Execution Time (Transposed Parallel): 12.509000 seconds
+
+Standard Sequential Result:
+m = 2700, n = 2701, p = 2702
+Execution Time (Standard Sequential): 219.636000 seconds
+
+Standard Parallel Result:
+m = 2700, n = 2701, p = 2702
+Execution Time (Standard Parallel): 43.607000 seconds
+
+Transposed Sequential Result:
+m = 2700, n = 2701, p = 2702
+Execution Time (Transposed Sequential): 53.705000 seconds
+
+Transposed Parallel Result:
+m = 2700, n = 2701, p = 2702
+Execution Time (Transposed Parallel): 12.474000 seconds
+
+Standard Sequential Result:
+m = 2800, n = 2801, p = 2802
+Execution Time (Standard Sequential): 244.374000 seconds
+
+Standard Parallel Result:
+m = 2800, n = 2801, p = 2802
+Execution Time (Standard Parallel): 48.072000 seconds
+
+Transposed Sequential Result:
+m = 2800, n = 2801, p = 2802
+Execution Time (Transposed Sequential): 58.766000 seconds
+
+Transposed Parallel Result:
+m = 2800, n = 2801, p = 2802
+Execution Time (Transposed Parallel): 13.842000 seconds
+
+Standard Sequential Result:
+m = 2900, n = 2901, p = 2902
+Execution Time (Standard Sequential): 271.634000 seconds
+
+Standard Parallel Result:
+m = 2900, n = 2901, p = 2902
+Execution Time (Standard Parallel): 53.751000 seconds
+
+Transposed Sequential Result:
+m = 2900, n = 2901, p = 2902
+Execution Time (Transposed Sequential): 65.823000 seconds
+
+Transposed Parallel Result:
+m = 2900, n = 2901, p = 2902
+Execution Time (Transposed Parallel): 15.279000 seconds
+
+Standard Sequential Result:
+m = 3000, n = 3001, p = 3002
+Execution Time (Standard Sequential): 294.478000 seconds
+
+Standard Parallel Result:
+m = 3000, n = 3001, p = 3002
+Execution Time (Standard Parallel): 56.557000 seconds
+
+Transposed Sequential Result:
+m = 3000, n = 3001, p = 3002
+Execution Time (Transposed Sequential): 72.345000 seconds
+
+Transposed Parallel Result:
+m = 3000, n = 3001, p = 3002
+Execution Time (Transposed Parallel): 16.908000 seconds
